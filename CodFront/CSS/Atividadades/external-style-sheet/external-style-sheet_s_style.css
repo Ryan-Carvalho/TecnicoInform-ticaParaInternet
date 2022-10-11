@@ -1,0 +1,25 @@
+h1{
+    color:blue ;
+    background-color:white ;
+    font-family:cursive ;
+}
+/* # - seletor de ID*/
+#p1{
+    font-size:16px ;
+    color:green ;
+    background-color:yellow ;
+}
+/* . - seletor de Class*/
+.p2{
+    font-size:55px ;
+    color:purple ;
+    background-color:green ;
+}
+p{
+    color:red ;
+    font-size:80px ;
+    background-color:gray ;
+}
+body{
+    background-color:black ;
+}
